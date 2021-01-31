@@ -10,13 +10,6 @@ It then dumps HTML <img> tags referencing the file names to a text file for easy
 * [VS Code](https://code.visualstudio.com/)
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
 <!-- USAGE -->
 ## Usage
 
