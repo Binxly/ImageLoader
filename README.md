@@ -1,5 +1,4 @@
 # ImageLoader
-Python script to automatically push images to a desired output folder, and write corresponding HTML <img> tags to a text file
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
