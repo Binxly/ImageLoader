@@ -1,9 +1,9 @@
 import os
 import shutil
 
-inputdir = '/home/user/input'
+inputdir = 'D:\crext\Documents\GitHub\ImageLoader\ImageLoader\input'
 #path of the folder containing jpgs to move
-outputdir = '/home/user/output'
+outputdir = 'D:\crext\Documents\GitHub\ImageLoader\ImageLoader\output'
 #path of folder to put jpgs
 
 for filename in os.listdir(inputdir):

@@ -1,0 +1,1 @@
+<img src="documents/photos/hmm.jpg" alt="Something or another">
