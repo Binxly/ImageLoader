@@ -1,2 +1,2 @@
 # ImageLoader
-WIP python program to automatically push images to html files
+Python script to automatically push images to new folder, and write html img tags to text file
