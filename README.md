@@ -1,6 +1,5 @@
-<p align="center">
-  Image Loader
-</p>
+# Image Loader
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
