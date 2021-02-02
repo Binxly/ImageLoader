@@ -4,7 +4,7 @@
 ## About The Project
 
 Python script to automatically push images from an input directory to an output directory.
-It then dumps HTML img tags referencing the file names to a text file for easy copy-pasting into an HTML document.
+It then dumps HTML img tags with the file names to a text file for easy copy-pasting into an HTML document.
 
 ### Built With
 
