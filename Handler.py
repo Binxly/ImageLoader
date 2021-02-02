@@ -3,8 +3,11 @@
 import os
 import shutil
 
+#CHANGE THIS TO INPUT DIRECTORY
 inputdir = 'C:\user\Photos\input'
 #path of the folder containing jpgs to move
+
+#CHANGE THIS TO OUTPUT DIRECTORY
 outputdir = 'C:\user\Photos\output'
 #path of folder to put jpgs
 
