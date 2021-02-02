@@ -14,12 +14,12 @@ It then dumps HTML img tags, with the corresponding file names, to a text file f
 <!-- USAGE -->
 ## Usage
 
-* Change inputdir and outputdir variables to the desired input and output paths of your jpg images
-* If no text file exists, create one named test.txt
-* Change img tag source to desired folder for your HTML page's reference
+* Change inputdir and outputdir variables to the desired input and output paths of your jpg images (You can run a test with the input and output folders in the repo, and the blank .jpg file)
+* If no text file exists, or if the existing one in the repo is deleted, create one named tags.txt
+* Change img tag source to desired folder for your HTML page (EXAMPLE: <img src="C:/Documents/HTMLfolder/imageFolder/{}" alt="Example"> )
 * Run script
-* Copy img tags to desired HTML file
 * Verify jpg files were moved to desired folder
+* Copy and paste img tags to your HTML file
 
 <!-- CONTACT -->
 ## Link

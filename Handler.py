@@ -1,3 +1,5 @@
+#https://github.com/Binxly/ImageLoader
+
 import os
 import shutil
 
@@ -6,7 +8,7 @@ inputdir = 'C:\user\Photos\input'
 outputdir = 'C:\user\Photos\output'
 #path of folder to put jpgs
 
-file = open("test.txt", "a")
+file = open("tags.txt", "a")
 #opens text file named test.txt in append mode, text file must exist
 
 for filename in os.listdir(inputdir):
@@ -19,3 +21,5 @@ for filename in os.listdir(inputdir):
         #copies file from inputdir path to outputdir path
 
 file.close()
+
+#https://github.com/Binxly/ImageLoader
